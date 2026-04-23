@@ -14,3 +14,12 @@ footer {
     width: 100%;
 }
 
+a {
+    text-decoration: none;
+}
+
+.main-nav {
+    display: flex;
+    list-style: none;
+}
+
