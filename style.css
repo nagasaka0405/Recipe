@@ -23,3 +23,11 @@ a {
     list-style: none;
 }
 
+.main-nav li {
+    margin-left: 36px;
+    color: #435;
+}
+
+.main-nav li:hover {
+    color: #0ba;
+}
