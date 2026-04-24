@@ -12,6 +12,16 @@ header {
     justify-content: space-between;
 }
 
+.main-visual {
+    text-align: center;
+    margin-top: 20%;
+}
+
+.main-visual p {
+    font-size: 1.2rem;
+    margin: 10px 0 40px;
+}
+
 footer {
     width: 100%;
 }
