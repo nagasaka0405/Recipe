@@ -34,3 +34,11 @@ a {
 .main-nav li:hover {
     color: #0ba;
 }
+
+footer {
+    width: 100%;
+    background-color: #444;
+    text-align: center;
+    padding: 26px 0;
+    color: #fff;
+}
