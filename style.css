@@ -8,6 +8,8 @@ header {
     width: 90%;
     padding: 15px 0;
     margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
 }
 
 footer {
@@ -21,6 +23,7 @@ a {
 .main-nav {
     display: flex;
     list-style: none;
+    margin-top: 14px;
 }
 
 .main-nav li {
