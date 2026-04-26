@@ -42,10 +42,6 @@ header {
     background-color: #0090dd;
 }
 
-footer {
-    width: 100%;
-}
-
 a {
     text-decoration: none;
 }
@@ -63,6 +59,12 @@ a {
 
 .main-nav li:hover {
     color: #0ba;
+}
+
+#top {
+    min-height: 100vh;
+    background-image: url(./img/cafemain.jpg);
+    background-size: cover;
 }
 
 footer {
