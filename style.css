@@ -61,6 +61,12 @@ a {
     color: #0ba;
 }
 
+.heading a {
+    font-family: 'Times New Roman', Times, serif;
+    color: #1b0704;
+}
+
+
 #top {
     min-height: 100vh;
     background-image: url(./img/cafemain.jpg);
