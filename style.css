@@ -138,6 +138,11 @@ aside {
     padding-top: 15px;
 }
 
+article img {
+    width: 100%;
+    margin-bottom: 15px;
+}
+
 #top {
     min-height: 100vh;
     background-image: url(./img/cafemain.jpg);
