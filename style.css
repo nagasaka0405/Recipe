@@ -109,6 +109,35 @@ aside {
     margin-right: 5%;
 }
 
+.post {
+    display: flex;
+    padding-top: 5px;
+    margin-bottom: 40px;
+}
+
+.post-date {
+    background-color: #0090dd;
+    color: #fff;
+    border-radius: 50%;
+    width: 80px;
+    height: 80px;
+    text-align: center;
+    padding-top: 15px;
+}
+
+.post-date span {
+    font-size: 1rem;
+    border-top: 1px #fff solid;
+    padding-top: 3px;
+}
+
+.post-title {
+    font-size: 2rem;
+    font-family: 'Times New Roman', Times, serif;
+    margin-left: 20px;
+    padding-top: 15px;
+}
+
 #top {
     min-height: 100vh;
     background-image: url(./img/cafemain.jpg);
