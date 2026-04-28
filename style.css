@@ -66,6 +66,20 @@ a {
     color: #1b0704;
 }
 
+.main-nav li a {
+    margin-left: 36px;
+    color: #1b0704;
+}
+
+.main-nav li a:hover {
+    color: #0ba;
+}
+
+.main-visual {
+    text-align: center;
+    margin-top: 20%;
+    color: #1b0704;
+}
 
 #top {
     min-height: 100vh;
