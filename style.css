@@ -191,6 +191,27 @@ aside p {
     background-size: cover;
 }
 
+.menu-drink {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 50px;
+}
+
+.menu-drink img {
+    width: 40%;
+    margin-left: 10%;
+}
+
+.drink {
+    width: 25%;
+    margin-right: 10%;
+}
+
+.drink-title {
+    font-size: 1.5rem;
+    text-align: center;
+}
+
 footer {
     width: 100%;
     background-color: #444;
