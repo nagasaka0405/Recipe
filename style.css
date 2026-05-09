@@ -298,4 +298,22 @@ footer {
     #top {
         background-position: center;
     }
+
+    .main-title {
+        margin-top: 40px;
+    }
+
+    .news-contents {
+        display: block;
+    }
+
+    article {
+        width: 90%;
+        margin-bottom: 30px;
+    }
+
+    .post-title {
+        font-size: 1.5rem;
+        padding-top: 0;
+    }
 }
